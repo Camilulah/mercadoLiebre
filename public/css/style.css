@@ -167,7 +167,7 @@ nav{
     border-radius: 5px;
     display: block;
     font-size: 1.5rem;
-    margin: auto; /* Esto centrará el elemento horizontalmente */
+    margin: auto;
     margin-bottom: 10px;
     margin-top: 10px;
 }
@@ -362,7 +362,7 @@ footer i {
 
     .descripcion {
         opacity: 0;
-        transition: opacity 1.5s ease; /* Agrega una transición de 0.3 segundos para suavizar el cambio de opacidad */
+        transition: opacity 1.5s ease;
     }
 
     article:hover .descripcion {
