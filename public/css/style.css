@@ -227,6 +227,10 @@ footer i {
     transition: transform 0.3s ease, color 0.3s ease;
 }
 
+.formularios-h1{
+    text-align: center;
+}
+
 /*Para ocultar en dispositivos móbiles*/
 @media (max-width:361px){
 
