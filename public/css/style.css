@@ -224,6 +224,7 @@ footer i {
     right: 20px;
     top: -15px;
     color: #39b54a;
+    transition: transform 0.3s ease, color 0.3s ease;
 }
 
 /*Para ocultar en dispositivos móbiles*/
