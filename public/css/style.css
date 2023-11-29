@@ -157,6 +157,10 @@ nav{
     justify-content: flex-end;
 }
 
+.login-user ul{
+    flex-direction: row-reverse;
+}
+
 .burger-menu {
     
     background-color: #1259c3;
@@ -346,7 +350,9 @@ footer i {
     }
 
     .header-p-1 {
-        display: block;
+        display: flex;
+        margin-left: 10px;
+    
     }
 
     footer {
